@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-YinshMobile.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\jhm52\Documents\Unreal Projects\YinshMobile\Intermediate\Build\Win64\YinshMobileEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\jhm52\Documents\Unreal Projects\YinshMobile\Intermediate\Build\Win64\UE4Editor\Development\YinshMobile\YinshMobile.cpp.obj"
+"C:\Users\jhm52\Documents\Unreal Projects\YinshMobile\Intermediate\Build\Win64\UE4Editor\Development\YinshMobile\YinshMobileGameModeBase.cpp.obj"
+"C:\Users\jhm52\Documents\Unreal Projects\YinshMobile\Intermediate\Build\Win64\UE4Editor\Development\YinshMobile\YinshMobile.init.gen.cpp.obj"
+"C:\Users\jhm52\Documents\Unreal Projects\YinshMobile\Intermediate\Build\Win64\UE4Editor\Development\YinshMobile\YinshMobileGameModeBase.gen.cpp.obj"
+"C:\Users\jhm52\Documents\Unreal Projects\YinshMobile\Intermediate\Build\Win64\UE4Editor\Development\YinshMobile\Default.rc2.res"
+/OUT:"C:\Users\jhm52\Documents\Unreal Projects\YinshMobile\Intermediate\Build\Win64\UE4Editor\Development\YinshMobile\UE4Editor-YinshMobile.lib"
+/INCLUDE:IMPLEMENT_MODULE_YinshMobile

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\YinshMobile.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{57FAAA15-D205-4885-8F8F-C051C12D3521}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\YinshMobile.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\YinshMobileEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{BEF556E6-16A9-4AFF-A6A5-0A42EDA02591}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Android">
+      <UniqueIdentifier>{A108B03C-4232-408A-9B40-9C8C603E80BE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Android\AndroidEngine.ini">
+      <Filter>Config\Android</Filter>
+    </None>
+    <Filter Include="Config\IOS">
+      <UniqueIdentifier>{D9657547-8C75-48E4-B726-61B568791731}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\IOS\IOSEngine.ini">
+      <Filter>Config\IOS</Filter>
+    </None>
+    <Filter Include="Config\Linux">
+      <UniqueIdentifier>{A2B6E8B4-A53B-4354-AF69-917648476820}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Linux\LinuxEngine.ini">
+      <Filter>Config\Linux</Filter>
+    </None>
+    <Filter Include="Config\Mac">
+      <UniqueIdentifier>{D1BA6735-939D-4403-90B2-CD4C249A61C0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Mac\MacEngine.ini">
+      <Filter>Config\Mac</Filter>
+    </None>
+    <Filter Include="Config\PS4">
+      <UniqueIdentifier>{B74C5A43-6AAC-4D8E-9731-91DE426DFCA9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\PS4\PS4Engine.ini">
+      <Filter>Config\PS4</Filter>
+    </None>
+    <Filter Include="Config\Switch">
+      <UniqueIdentifier>{BB0BDC3C-9406-4265-A9A7-9591D9327A10}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Switch\SwitchEngine.ini">
+      <Filter>Config\Switch</Filter>
+    </None>
+    <Filter Include="Config\Windows">
+      <UniqueIdentifier>{23454BA6-7FDD-485A-853F-8FA9886DD8E0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Windows\WindowsEngine.ini">
+      <Filter>Config\Windows</Filter>
+    </None>
+    <Filter Include="Config\XboxOne">
+      <UniqueIdentifier>{3CD401C5-108F-4F61-88DA-16159E44FA2C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
+      <Filter>Config\XboxOne</Filter>
+    </None>
+    <Filter Include="Source\YinshMobile">
+      <UniqueIdentifier>{94C32667-B1E0-408A-92E9-4461A0EF955D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\YinshMobile\YinshMobile.Build.cs">
+      <Filter>Source\YinshMobile</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\YinshMobile\YinshMobile.cpp">
+      <Filter>Source\YinshMobile</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\YinshMobile\YinshMobile.h">
+      <Filter>Source\YinshMobile</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\YinshMobile\YinshMobileGameModeBase.cpp">
+      <Filter>Source\YinshMobile</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\YinshMobile\YinshMobileGameModeBase.h">
+      <Filter>Source\YinshMobile</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

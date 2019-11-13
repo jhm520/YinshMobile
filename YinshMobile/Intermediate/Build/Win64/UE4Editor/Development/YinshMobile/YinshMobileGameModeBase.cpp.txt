@@ -1,0 +1,7 @@
+C:\Users\jhm52\Documents\Unreal Projects\YinshMobile\Intermediate\Build\Win64\UE4Editor\Development\YinshMobile\Definitions.YinshMobile.h
+c:\users\jhm52\documents\unreal projects\yinshmobile\source\yinshmobile\YinshMobileGameModeBase.h
+F:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+F:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+F:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+F:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\jhm52\Documents\Unreal Projects\YinshMobile\Intermediate\Build\Win64\UE4Editor\Inc\YinshMobile\YinshMobileGameModeBase.generated.h

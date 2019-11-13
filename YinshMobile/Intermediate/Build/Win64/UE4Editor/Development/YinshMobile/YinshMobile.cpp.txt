@@ -1,0 +1,2 @@
+C:\Users\jhm52\Documents\Unreal Projects\YinshMobile\Intermediate\Build\Win64\UE4Editor\Development\YinshMobile\Definitions.YinshMobile.h
+c:\users\jhm52\documents\unreal projects\yinshmobile\source\yinshmobile\YinshMobile.h

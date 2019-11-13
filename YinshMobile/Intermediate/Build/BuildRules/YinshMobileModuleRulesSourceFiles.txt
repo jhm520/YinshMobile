@@ -1,0 +1,3 @@
+C:\Users\jhm52\Documents\Unreal Projects\YinshMobile\Source\YinshMobile\YinshMobile.Build.cs
+C:\Users\jhm52\Documents\Unreal Projects\YinshMobile\Source\YinshMobile.Target.cs
+C:\Users\jhm52\Documents\Unreal Projects\YinshMobile\Source\YinshMobileEditor.Target.cs
